@@ -1,6 +1,6 @@
 # TimHortonsSimulation
 - Unity Project & Data Collect: https://github.com/yoyohohoh/COMP395_Project1
-- WebGL Version Available (PC): https://bit.ly/tim-hortons-simulation
+- WebGL Version Available (PC): https://yobisaboy.itch.io/tim-hortons-simulation?secret=jJc8NxeHzL1E66xvFKmO8iezLY
   
 ## Contact
 - Tel: +1 (647) 637-0831
