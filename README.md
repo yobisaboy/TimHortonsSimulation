@@ -1,5 +1,5 @@
 # TimHortonsSimulation
-- Unity Project & Data Collect: https://github.com/yoyohohoh/COMP395_Project1
+- Unity Project & Data Collect: https://github.com/yoyohohoh/COMP395_GroupProject/tree/simulations
 - WebGL Version Available (PC): https://yobisaboy.itch.io/tim-hortons-simulation?secret=jJc8NxeHzL1E66xvFKmO8iezLY
   
 ## Contact
