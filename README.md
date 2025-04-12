@@ -1,5 +1,5 @@
 # TimHortonsSimulation
-<img src="https://github.com/yobisaboy/Resume/blob/main/yobisaboyLogo.png" alt="yobisaboy Logo" height="90">
+<img src="https://github.com/yobisaboy/Resume/blob/main/yobisaboyLogo.png" alt="yobisaboy Logo" height="90"> <img src="https://github.com/yobisaboy/Resume/blob/main/ChomperStudiosLogo.png" alt="chomper Logo" height="90">
 
 ## Introduction
 - It is a M/M/1 queue system simulation of Tim Hortons with opening hours from 08:00 to 16:00, where 6 hours are simulated in 1 minute.
